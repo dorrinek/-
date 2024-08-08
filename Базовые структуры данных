@@ -1,0 +1,4 @@
+print(9 ** 0.5 * 5)  # 1stprogram
+print(9.99 > 9.98, 1000 != 1000.1)  # 2stprogram
+print(2 * 2 + 2 == 2 * (2 + 2))  # 3stprogram
+print(123.456 * 10)  # 4stprogram
